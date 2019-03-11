@@ -1,1 +1,1 @@
-module github.com/rs/zerolog
+module github.com/ysamlan/zerolog
